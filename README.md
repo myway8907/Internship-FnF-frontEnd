@@ -111,7 +111,12 @@
   ```
 </details>
 
-## R&R per members (김정현)
+## Resources
 
-이 영역에서 각자 했던 영역의 리소스 및 사용한 기술, 했던 역할 등등을 상세히 기술하시면 됩니다.
+[Figma](https://www.figma.com/file/8K2hK5wnxGR2xn0fJYR62O/wecode%3A%3AF%26F-Dash)
 
+[Notion](https://candle-emery-a2e.notion.site/2be0b73f10464581a8291a63cbea40f7)
+
+Figma는 캡쳐된 사진만 기록되어 있습니다.
+
+기능 동작과 관련해서는 Notion 페이지를 확인해주시기 바랍니다.
