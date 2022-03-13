@@ -1,6 +1,6 @@
-const BASE_URL = 'http://172.1.7.142:8000';
+const BASE_URL = 'Back-End 서버 주소';
 
-export const FILTERINFO = [`${BASE_URL}/category-list?brand=M&adult-kids=성인`];
+export const FILTERINFO = [`./data/mockData.json`];
 
 export const API = [
   `${BASE_URL}/weekly/channel/timeseries`,
