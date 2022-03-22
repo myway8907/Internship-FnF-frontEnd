@@ -10,9 +10,21 @@
 - [옥채현](https://github.com/okch0310)
 
 ## Tech Stacks
+<img alt="react" src="https://img.shields.io/badge/React-06B4F8?style=for-the-badge&logo=react&logoColor=FFFFFF" /> <img alt="router" src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white" /> <img alt="cra" src="https://img.shields.io/badge/Create React App-09D3AC?style=for-the-badge&logo=Create React App&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" /> <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF" /> <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF" /> <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=FFFFFF" /> <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=FFFFFF" /> <img alt="mui" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white" /> <img alt="recharts" src="https://img.shields.io/badge/Recharts-C70039?style=for-the-badge" /> <img alt="axios" src="https://img.shields.io/badge/Axios-FFC300?style=for-the-badge" />
+<img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white" />
+<img alt="prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=black" />
 
-* View : React v17, React-Router-Dom, Styled-components
-* Build : Create-React-App
+### VCS
+<img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" /> <img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+
+### Communication
+<img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" /> <img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /> <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white" />
+
+
+### View
+React v17, React-Router-Dom, Styled-components
+### Set Up
+
 * Code Quality Tool : ESLint, Prettier
 * VCS : Git, Github
 * Collabo Tools : Slack, Notion, Figma
